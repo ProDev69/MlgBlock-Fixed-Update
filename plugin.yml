@@ -1,0 +1,6 @@
+name: MLGBLOCK
+author: Fixed By ProtectorYT
+description: MlgBlock
+main: mb\sw\SWmain
+version: 0.1
+api: [3.0.0]
